@@ -4,7 +4,7 @@ OpenCore EFI
 EFI Folder for OpenCore Bootloader. Serial Number from default config.
 Created with [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
-## System Components:
+## System Components
 
 - [GIGABYTE B450 Aorus Pro Rev. 1.0](https://de.aorus.com/product-detail.php?p=794&t=53&t2=57&t3=121) (UEFI Version [F41](http://download.gigabyte.eu/FileList/BIOS/mb_bios_b450-aorus-pro_f41_n.zip))
 - [AMD RYZEN 5 3600](https://www.amd.com/de/products/cpu/amd-ryzen-5-3600)
@@ -39,3 +39,10 @@ Created with [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/
 - SmallTreeIntel82576 for Intel I-211AT Ethernet [1.0.6](https://drive.google.com/file/d/0B5Txx3pb7pgcOG5lSEF2VzFySWM/view)
 - VirtualSMC [1.0.9](https://github.com/acidanthera/VirtualSMC/releases/tag/1.0.9)
 - WhateverGreen [1.3.4](https://github.com/acidanthera/WhateverGreen/releases/tag/1.3.4)
+
+## Sources
+- [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
+- [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore)
+- [r/hackintosh](https://www.reddit.com/r/hackintosh/)
+- [Kext Repository](https://1drv.ms/f/s!AiP7m5LaOED-m-J8-MLJGnOgAqnjGw)
+- [OpenCore Bootloader](https://github.com/acidanthera/OpenCorePkg)
