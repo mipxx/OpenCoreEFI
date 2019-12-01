@@ -10,10 +10,31 @@ OpenCore EFI
 EFI Folder for OpenCore Bootloader.
 Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
+## Function Overwiev
+
+| Function        | Status                   | Comment                 |
+| --------------- | :----------------------: | :---------------------- |
+| AirDrop         | :heavy_multiplication_x: | no wifi card            |
+| FaceTime        | :grey_question:          |                         |
+| FileVault 2     | :grey_question:          |                         |
+| Handoff         | :heavy_multiplication_x: | no wifi card            |
+| HEVC            | :heavy_multiplication_x: | with Radeon RX Vega 56  |
+| hibernate       | :grey_question:          |                         |
+| iMessage        | :heavy_check_mark:       | with valid serialnumber |
+| native NVRAM    | :heavy_check_mark:       |                         |
+| NVMe boot       | :heavy_check_mark:       |                         |
+| sleep/wake      | :grey_question:          |                         |
+| UEFI boot entry | :heavy_check_mark:      | with UEFI edit          |
+| USB 3.0         | :heavy_check_mark:       | all ports with USB map  |
+
+
 ## Additional Information
 
-- [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
 - [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Benchmark.md)
+- [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
+- [UEFI Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI.md)
+- [USB Map with Board Layout](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USBLayout.md)
+
 
 ## System Components
 
@@ -28,7 +49,6 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 
 - macOS Catalina 10.15.1 (19B88)
 - OpenCore 0.5.3 (30.11.2019) Commit [160556b](https://github.com/acidanthera/OpenCorePkg/commit/160556b84dc4a1225a1103d05d20181cad5f6e66)
-
 
 ## SSDT
 - SSDT-EC-AMD
