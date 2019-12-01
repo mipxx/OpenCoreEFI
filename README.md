@@ -10,7 +10,7 @@ OpenCore EFI
 EFI Folder for OpenCore Bootloader.
 Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
-## Function Overwiev
+## Function Overview
 
 | Function        | Status                   | Comment                 |
 | --------------- | :----------------------: | :---------------------- |
