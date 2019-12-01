@@ -5,7 +5,7 @@ OpenCore EFI
 
 :exclamation: This configuration is still work in progress. While it is able to boot and use most functions, not everything has been tested.
 
-<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_1.png" width="1396" height="930"/>
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_1.png" width="698" height="465"/>
 
 EFI Folder for OpenCore Bootloader.
 Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
