@@ -1,8 +1,12 @@
 OpenCore EFI
 -----
 
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_1.png"/>
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_2.png"/>
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_3.png"/>
+
 EFI Folder for OpenCore Bootloader. Serial Number from default config.
-Created with [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
+Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
 ## System Components
 
