@@ -43,3 +43,5 @@ Temporary Items
 
 # End of https://www.gitignore.io/api/macos,visualstudiocode
 
+# OpenCore with Serial Number
+OC/config-secret.plist
