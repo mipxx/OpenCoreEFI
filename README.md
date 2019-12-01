@@ -10,10 +10,10 @@ OpenCore EFI
 EFI Folder for OpenCore Bootloader.
 Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
-## Additional Data
+## Additional Information
 
-- [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/System.md)
-- [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Benchmark.md)
+- [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
+- [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Benchmark.md)
 
 ## System Components
 
