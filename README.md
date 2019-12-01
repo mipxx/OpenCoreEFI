@@ -5,7 +5,7 @@ OpenCore EFI
 
 :exclamation: This configuration is still work in progress. While it is able to boot and use most functions, not everything has been tested.
 
-<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_1.png" width="698" height="465"/>
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_1.png" width="1396" height="930"/>
 
 EFI Folder for OpenCore Bootloader.
 Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
@@ -13,6 +13,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 ## Additional Data
 
 - [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/System.md)
+- [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Benchmark.md)
 
 ## System Components
 
@@ -21,6 +22,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [Crucial Ballistix Sport LT rot DIMM Kit 16GB, DDR4-3200, CL16-18-18](https://ballistixgaming.com/products/dram/sport/ballistix-sport-lt-ddr4/ballistix-sport-lt-ddr4-rc.html)
 - [SAPPHIRE PULSE Radeon RX VEGA56 8G HBM2](https://www.sapphiretech.com/de-de/consumer/pulse-rx-vega56-8g-hbm2)
 - [WD Blue SN500 NVMe SSD](https://shop.westerndigital.com/de-de/products/internal-drives/wd-blue-sn500-nvme-ssd#WDS500G1B0C)
+- [HP ENVY 27s](https://store.hp.com/GermanyStore/Merch/Product.aspx?id=Y6K73AA&opt=ABB&sel=MTO) 4K Monitor via DisplayPort
 
 ## Versions
 
