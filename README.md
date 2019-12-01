@@ -1,7 +1,8 @@
 OpenCore EFI
 -----
 
- :exclamation: Change 'MLB', 'ROM', 'SystemSerialNumber' and 'SystemUUID' Number to a valid value!
+:exclamation: Change 'MLB', 'ROM', 'SystemSerialNumber' and 'SystemUUID' Number to a valid value!
+:exclamation: This Configuration is still work in progress. While it is able to boot and use most functions, not everything has been tested.
 <img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System_Info_1.png" width="698" height="465"/>
 
 EFI Folder for OpenCore Bootloader.
