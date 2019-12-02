@@ -24,7 +24,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | native NVRAM    | :heavy_check_mark:       |                         |
 | NVMe boot       | :heavy_check_mark:       |                         |
 | sleep/wake      | :grey_question:          |                         |
-| UEFI boot entry | :heavy_check_mark:      | with UEFI edit          |
+| UEFI boot entry | :heavy_check_mark:       | with UEFI edit          |
 | USB 3.0         | :heavy_check_mark:       | all ports with USB map  |
 
 
@@ -45,7 +45,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [WD Blue SN500 NVMe SSD](https://shop.westerndigital.com/de-de/products/internal-drives/wd-blue-sn500-nvme-ssd#WDS500G1B0C)
 - [HP ENVY 27s](https://store.hp.com/GermanyStore/Merch/Product.aspx?id=Y6K73AA&opt=ABB&sel=MTO) 4K Monitor via DisplayPort
 
-## Versions
+## Software Versions
 
 - macOS Catalina 10.15.1 (19B88)
 - OpenCore 0.5.3 (30.11.2019) Commit [160556b](https://github.com/acidanthera/OpenCorePkg/commit/160556b84dc4a1225a1103d05d20181cad5f6e66)
