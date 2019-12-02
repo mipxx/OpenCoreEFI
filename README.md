@@ -56,7 +56,6 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 ## Drivers
 - ApfsDriverLoader [2.1.2](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.2)
 - FwRuntimeServices [2.1.2](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.2)
-- UsbKbDxe [2.1.2](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.2)
 - VBoxHfs [2.1.2](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.2)
 - VirtualSMC [1.0.9](https://github.com/acidanthera/VirtualSMC/releases/tag/1.0.9)
 
@@ -67,7 +66,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - AMD-USB-Map for GIGABYTE B450 Aorus Pro
 - AppleALC Layout 7 for Realtek ALC1220-VB [1.4.3](https://github.com/acidanthera/AppleALC/releases/tag/1.4.3)
 - Lilu [1.3.9](https://github.com/acidanthera/Lilu/releases/tag/1.3.9)
-- NullCPUPowerManagement [1.0.0.d2](https://github.com/corpnewt/NullCPUPowerManagement)
+- NullCPUPowerManagement [1.0.0d2](https://github.com/corpnewt/NullCPUPowerManagement)
 - SmallTreeIntel82576 for Intel I-211AT Ethernet [1.0.6](https://drive.google.com/file/d/0B5Txx3pb7pgcOG5lSEF2VzFySWM/view)
 - VirtualSMC [1.0.9](https://github.com/acidanthera/VirtualSMC/releases/tag/1.0.9)
 - WhateverGreen [1.3.4](https://github.com/acidanthera/WhateverGreen/releases/tag/1.3.4)
