@@ -48,7 +48,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 ## Software Versions
 
 - macOS Catalina 10.15.1 (19B88)
-- OpenCore 0.5.3 (09.11.2019) Commit [6fc0caa](https://github.com/acidanthera/OpenCorePkg/commit/6fc0caa3d0f102a1759f3e887dd315d430fcbd9e)
+- OpenCore [0.5.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.3)
 
 ## SSDT
 - SSDT-EC-AMD
