@@ -54,9 +54,9 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - SSDT-EC-AMD
 
 ## Drivers
-- ApfsDriverLoader [2.1.2](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.2)
-- FwRuntimeServices [2.1.2](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.2)
-- VBoxHfs [2.1.2](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.2)
+- ApfsDriverLoader [2.1.4](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.4)
+- FwRuntimeServices [2.1.4](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.4)
+- VBoxHfs [2.1.4](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.4)
 - VirtualSMC [1.0.9](https://github.com/acidanthera/VirtualSMC/releases/tag/1.0.9)
 
 ## Tools
