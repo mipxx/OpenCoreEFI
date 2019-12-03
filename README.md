@@ -18,7 +18,8 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | FaceTime        | :grey_question:          |                         |
 | FileVault 2     | :grey_question:          |                         |
 | Handoff         | :heavy_multiplication_x: | no wifi card            |
-| HEVC            | :heavy_multiplication_x: | with Radeon RX Vega 56  |
+| H.264           | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
+| HEVC            | :heavy_multiplication_x: | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | hibernate       | :grey_question:          |                         |
 | iMessage        | :heavy_check_mark:       | with valid serialnumber |
 | native NVRAM    | :heavy_check_mark:       |                         |
@@ -77,3 +78,4 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [r/hackintosh](https://www.reddit.com/r/hackintosh/)
 - [Kext Repository](https://1drv.ms/f/s!AiP7m5LaOED-m-J8-MLJGnOgAqnjGw)
 - [OpenCore Bootloader](https://github.com/acidanthera/OpenCorePkg)
+- [AMD-OSX Discord](https://discord.gg/EfCYAJW)
