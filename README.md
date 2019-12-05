@@ -26,7 +26,8 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | NVMe boot       | :heavy_check_mark:       |                         |
 | sleep/wake      | :grey_question:          |                         |
 | UEFI boot entry | :heavy_check_mark:       | with UEFI edit          |
-| USB 3.0         | :heavy_check_mark:       | all ports with USB map  |
+| Apple Music     | :grey_question:          |                         |
+| Netflix DRM     | :grey_question:          |                         |
 
 
 ### Additional Information
@@ -34,7 +35,6 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Benchmark.md)
 - [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
 - [UEFI Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI.md)
-- [USB Map with Board Layout](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USBLayout.md)
 
 
 ### System Components

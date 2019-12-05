@@ -1,4 +1,0 @@
-USB Layout
------
-
-N/A
