@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>iMac14,2-PTXH</key>
+		<key>iMacPro1,1-PTXH</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -204,9 +204,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac14,2</string>
+			<string>iMacPro1,1</string>
 		</dict>
-		<key>iMac14,2-XHC0</key>
+		<key>iMacPro1,1-XHC0</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -283,7 +283,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac14,2</string>
+			<string>iMacPro1,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
