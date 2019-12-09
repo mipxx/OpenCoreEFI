@@ -1,5 +1,5 @@
 Screenshots
------
+================
 
 ## System Info
 <img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System/System_Info_1.png" width="698" height="465"/>
