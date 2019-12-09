@@ -21,21 +21,19 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | H.264           | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | HEVC            | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | hibernate       | :grey_question:          |                         |
-| iMessage        | :heavy_check_mark:       | with valid serialnumber |
+| iMessage        | :grey_question:          |                         |
 | native NVRAM    | :heavy_check_mark:       |                         |
-| NVMe boot       | :heavy_check_mark:       |                         |
+| NVMe boot       | :grey_question:          |                         |
 | sleep/wake      | :grey_question:          |                         |
-| UEFI boot entry | :heavy_check_mark:       | with UEFI edit          |
+| UEFI boot entry | :grey_question:          |                         |
 | Apple Music     | :grey_question:          |                         |
 | Netflix DRM     | :grey_question:          |                         |
-
 
 ### Additional Information
 
 - [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Benchmark.md)
 - [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
 - [UEFI Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI.md)
-
 
 ### System Components
 
