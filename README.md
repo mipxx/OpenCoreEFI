@@ -14,7 +14,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 
 | Function        | Status                   | Comment                 |
 | --------------- | :----------------------: | :---------------------- |
-| AirDrop         | :heavy_multiplication_x: | no wifi card            |
+| AirDrop         | :heavy_check_mark:       | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
 | FaceTime        | :grey_question:          |                         |
 | FileVault 2     | :grey_question:          |                         |
 | Handoff         | :heavy_multiplication_x: | no wifi card            |
@@ -43,6 +43,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [SAPPHIRE PULSE Radeon RX VEGA56 8G HBM2](https://www.sapphiretech.com/de-de/consumer/pulse-rx-vega56-8g-hbm2)
 - [WD Blue SN500 NVMe SSD](https://shop.westerndigital.com/de-de/products/internal-drives/wd-blue-sn500-nvme-ssd#WDS500G1B0C)
 - [HP ENVY 27s](https://store.hp.com/GermanyStore/Merch/Product.aspx?id=Y6K73AA&opt=ABB&sel=MTO) 4K Monitor via DisplayPort
+- [Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) WiFi / Bluetooth Card PCIe
 
 ### Software Versions
 
@@ -77,3 +78,4 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [Kext Repository](https://1drv.ms/f/s!AiP7m5LaOED-m-J8-MLJGnOgAqnjGw)
 - [OpenCore Bootloader](https://github.com/acidanthera/OpenCorePkg)
 - [AMD-OSX Discord](https://discord.gg/EfCYAJW)
+- [Wireless Buyers Guide](https://khronokernel-7.gitbook.io/wireless-buyers-guide/)
