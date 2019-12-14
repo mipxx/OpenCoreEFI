@@ -19,7 +19,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | Apple TV+       | :grey_question:          |                         |
 | FaceTime        | :grey_question:          |                         |
 | FileVault 2     | :grey_question:          |                         |
-| Handoff         | :heavy_multiplication_x: | no wifi card            |
+| Handoff         | :heavy_multiplication_x: | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
 | H.264           | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | HEVC            | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | hibernate       | :grey_question:          |                         |
@@ -27,7 +27,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | native NVRAM    | :heavy_check_mark:       |                         |
 | Netflix Safari  | :grey_question:          |                         |
 | NVMe boot       | :grey_question:          |                         |
-| sleep/wake      | :grey_question:          |                         |
+| sleep/wake      | :heavy_multiplication_x: |                         |
 | UEFI boot entry | :grey_question:          |                         |
 
 ### Additional Information
