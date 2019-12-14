@@ -15,6 +15,8 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | Function        | Status                   | Comment                 |
 | --------------- | :----------------------: | :---------------------- |
 | AirDrop         | :heavy_check_mark:       | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
+| Apple Music     | :grey_question:          |                         |
+| Apple TV+       | :grey_question:          |                         |
 | FaceTime        | :grey_question:          |                         |
 | FileVault 2     | :grey_question:          |                         |
 | Handoff         | :heavy_multiplication_x: | no wifi card            |
@@ -23,11 +25,10 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | hibernate       | :grey_question:          |                         |
 | iMessage        | :grey_question:          |                         |
 | native NVRAM    | :heavy_check_mark:       |                         |
+| Netflix Safari  | :grey_question:          |                         |
 | NVMe boot       | :grey_question:          |                         |
 | sleep/wake      | :grey_question:          |                         |
 | UEFI boot entry | :grey_question:          |                         |
-| Apple Music     | :grey_question:          |                         |
-| Netflix DRM     | :grey_question:          |                         |
 
 ### Additional Information
 
@@ -47,7 +48,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 
 ### Software Versions
 
-- macOS Catalina 10.15.1 (19B88)
+- macOS Catalina 10.15.2 (19C57)
 - OpenCore [0.5.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.3)
 
 ### SSDT
