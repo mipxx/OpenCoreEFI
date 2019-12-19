@@ -68,6 +68,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - AppleALC Layout 1 for Realtek ALC1220-VB [1.4.4](https://github.com/acidanthera/AppleALC/releases/tag/1.4.4)
 - AppleMCEReporterDisabler [1.0](https://github.com/AMD-OSX/AMD_Vanilla/blob/master/Extra/AppleMCEReporterDisabler.kext.zip)
 - Custom USB Port kext (experimental)
+- Innie (set NVMe SSD to internal) [1.2.0](https://forums.macrumors.com/threads/innie-a-fix-for-pci-drives-seen-as-external.2136229/#post-26433989)
 - Lilu [1.4.0](https://github.com/acidanthera/Lilu/releases/tag/1.4.0)
 - NullCPUPowerManagement [1.0.0d2](https://cdn.discordapp.com/attachments/263757191608139779/643751774666358794/NullCPUPowerManagement.kext.zip)
 - SmallTreeIntel82576 for Intel I-211AT Ethernet [1.0.6](https://drive.google.com/file/d/0B5Txx3pb7pgcOG5lSEF2VzFySWM/view)
