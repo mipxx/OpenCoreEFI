@@ -32,6 +32,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 
 ### Additional Information
 
+- [Audio Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Audio.md)
 - [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Benchmark.md)
 - [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
 - [UEFI Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI.md)
@@ -64,7 +65,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - UEFI Shell
 
 ### Kexts
-- AppleALC Layout 7 for Realtek ALC1220-VB [1.4.4](https://github.com/acidanthera/AppleALC/releases/tag/1.4.4)
+- AppleALC Layout 1 for Realtek ALC1220-VB [1.4.4](https://github.com/acidanthera/AppleALC/releases/tag/1.4.4)
 - Lilu [1.4.0](https://github.com/acidanthera/Lilu/releases/tag/1.4.0)
 - NullCPUPowerManagement [1.0.0d2](https://cdn.discordapp.com/attachments/263757191608139779/643751774666358794/NullCPUPowerManagement.kext.zip)
 - SmallTreeIntel82576 for Intel I-211AT Ethernet [1.0.6](https://drive.google.com/file/d/0B5Txx3pb7pgcOG5lSEF2VzFySWM/view)
