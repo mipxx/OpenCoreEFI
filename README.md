@@ -20,8 +20,8 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | FaceTime        | :grey_question:          |                         |
 | FileVault 2     | :grey_question:          |                         |
 | Handoff         | :heavy_multiplication_x: | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
-| H.264           | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
-| HEVC            | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
+| H.264           | :heavy_check_mark:       | [with Radeon RX 5700](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
+| HEVC            | :heavy_check_mark:       | [with Radeon RX 5700](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | hibernate       | :heavy_multiplication_x: |                         |
 | iMessage        | :grey_question:          |                         |
 | native NVRAM    | :heavy_check_mark:       |                         |
@@ -42,7 +42,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [GIGABYTE B450 Aorus Pro Rev. 1.0](https://de.aorus.com/product-detail.php?p=794&t=53&t2=57&t3=121) (UEFI Version [F41](http://download.gigabyte.eu/FileList/BIOS/mb_bios_b450-aorus-pro_f41_n.zip))
 - [AMD RYZEN 5 3600](https://www.amd.com/de/products/cpu/amd-ryzen-5-3600)
 - [Crucial Ballistix Sport LT rot DIMM Kit 16GB, DDR4-3200, CL16-18-18](https://ballistixgaming.com/products/dram/sport/ballistix-sport-lt-ddr4/ballistix-sport-lt-ddr4-rc.html)
-- [SAPPHIRE PULSE Radeon RX VEGA56 8G HBM2](https://www.sapphiretech.com/de-de/consumer/pulse-rx-vega56-8g-hbm2)
+- [PowerColor Red Dragon Radeon™ RX 5700](https://www.powercolor.com/product?id=1565954303)
 - [WD Blue SN500 NVMe SSD](https://shop.westerndigital.com/de-de/products/internal-drives/wd-blue-sn500-nvme-ssd#WDS500G1B0C)
 - [HP ENVY 27s](https://store.hp.com/GermanyStore/Merch/Product.aspx?id=Y6K73AA&opt=ABB&sel=MTO) 4K Monitor via DisplayPort
 - [Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) WiFi / Bluetooth Card PCIe
