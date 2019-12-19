@@ -22,11 +22,11 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | Handoff         | :heavy_multiplication_x: | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
 | H.264           | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | HEVC            | :heavy_check_mark:       | [with Radeon RX Vega 56](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
-| hibernate       | :grey_question:          |                         |
+| hibernate       | :heavy_multiplication_x: |                         |
 | iMessage        | :grey_question:          |                         |
 | native NVRAM    | :heavy_check_mark:       |                         |
 | Netflix Safari  | :grey_question:          |                         |
-| NVMe boot       | :grey_question:          |                         |
+| NVMe boot       | :heavy_check_mark:       |                         |
 | sleep/wake      | :heavy_multiplication_x: |                         |
 | UEFI boot entry | :grey_question:          |                         |
 
