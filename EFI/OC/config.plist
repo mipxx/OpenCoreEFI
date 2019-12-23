@@ -1573,7 +1573,7 @@
 			<key>HideSelf</key>
 			<true/>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>Resolution</key>
 			<string></string>
 			<key>ShowPicker</key>
@@ -1771,7 +1771,7 @@
 			<key>DeviceProperties</key>
 			<false/>
 			<key>FirmwareVolume</key>
-			<false/>
+			<true/>
 			<key>HashServices</key>
 			<false/>
 			<key>UnicodeCollation</key>
