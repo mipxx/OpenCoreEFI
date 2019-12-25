@@ -28,7 +28,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | Netflix Safari  | :grey_question:          |                         |
 | NVMe boot       | :heavy_check_mark:       |                         |
 | sleep/wake      | :heavy_multiplication_x: |                         |
-| UEFI boot entry | :grey_question:          |                         |
+| UEFI boot entry | :heavy_check_mark:       | [with rEFInd](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Multiboot.md#refind) |
 
 ### Additional Information
 
