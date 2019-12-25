@@ -5,6 +5,8 @@ OpenCore EFI
 
 :exclamation: This configuration is still work in progress. While it is able to boot and use most functions, not everything has been tested.
 
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI/refind.png" width="640" height="360"/>
+
 <img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System/System_Info_1.png" width="698" height="465"/>
 
 EFI Folder for OpenCore Bootloader.
