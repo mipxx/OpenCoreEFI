@@ -21,11 +21,11 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | Apple TV+       | :grey_question:          |                         |
 | FaceTime        | :grey_question:          |                         |
 | FileVault 2     | :heavy_check_mark:       |                         |
-| Handoff         | :heavy_multiplication_x: | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
+| Handoff         | :heavy_check_mark:       | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
 | H.264           | :heavy_check_mark:       | [with Radeon RX 5700](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | HEVC            | :heavy_check_mark:       | [with Radeon RX 5700](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md#hardware-encoding)  |
 | hibernate       | :heavy_multiplication_x: |                         |
-| iMessage        | :grey_question:          |                         |
+| iMessage        | :heavy_check_mark:       | with valid serialnumber |
 | native NVRAM    | :heavy_check_mark:       |                         |
 | Netflix Safari  | :grey_question:          |                         |
 | NVMe boot       | :heavy_check_mark:       |                         |
