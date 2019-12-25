@@ -36,6 +36,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 
 - [Audio Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Audio.md)
 - [Benchmarks](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Benchmark.md)
+- [Multiboot](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Multiboot.md)
 - [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
 - [UEFI Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI.md)
 
@@ -85,3 +86,4 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [OpenCore Bootloader](https://github.com/acidanthera/OpenCorePkg)
 - [AMD-OSX Discord](https://discord.gg/EfCYAJW)
 - [Wireless Buyers Guide](https://khronokernel-7.gitbook.io/wireless-buyers-guide/)
+- [How to fix iMessage (tonymacx86)](https://www.tonymacx86.com/threads/how-to-fix-imessage.110471/)
