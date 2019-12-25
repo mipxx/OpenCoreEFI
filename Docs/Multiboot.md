@@ -2,7 +2,7 @@ Multiboot Arch Linux, Windows 10, macOS
 ================
 
 ## rEFInd
-<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI/refind.png" width="1024" height="768"/>
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI/refind.png" width="640" height="360"/>
 
 ## Sources
 - [rEFInd UEFI Bootmanager](http://www.rodsbooks.com/refind/)
