@@ -1579,7 +1579,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>UsePicker</key>
 			<true/>
 		</dict>
