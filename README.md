@@ -19,6 +19,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 | AirDrop         | :heavy_check_mark:       | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
 | Apple Music     | :grey_question:          |                         |
 | Apple TV+       | :grey_question:          |                         |
+| Apple Watch unlock | :heavy_check_mark:       | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
 | FaceTime        | :grey_question:          |                         |
 | FileVault 2     | :heavy_check_mark:       |                         |
 | Handoff         | :heavy_check_mark:       | [with Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) |
