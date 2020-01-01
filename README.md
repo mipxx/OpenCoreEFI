@@ -63,6 +63,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - OpenCore [0.5.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.3)
 
 ### SSDT
+- SSDT-EC-AMD [Block EC Device](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/amd-config.plist/amd-config#acpi)
 - SSDT-USBX-AMD [Fix USB Power](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/AMD-USB-map.md#fixing-usb-power-on-amd)
 
 ### Drivers
@@ -77,7 +78,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 ### Kexts
 - AppleALC Layout 1 for Realtek ALC1220-VB [1.4.4](https://github.com/acidanthera/AppleALC/releases/tag/1.4.4)
 - AppleMCEReporterDisabler [1.0](https://github.com/AMD-OSX/AMD_Vanilla/blob/master/Extra/AppleMCEReporterDisabler.kext.zip)
-- Custom USB Port kext (experimental)
+- Custom USB Port kext [0.0](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/AMD-USB-map.md)
 - Innie (set NVMe SSD to internal) [1.2.0](https://forums.macrumors.com/threads/innie-a-fix-for-pci-drives-seen-as-external.2136229/#post-26433989)
 - Lilu [1.4.0](https://github.com/acidanthera/Lilu/releases/tag/1.4.0)
 - NullCPUPowerManagement [1.0.0d2](https://cdn.discordapp.com/attachments/263757191608139779/643751774666358794/NullCPUPowerManagement.kext.zip)
