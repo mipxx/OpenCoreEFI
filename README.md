@@ -63,7 +63,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - OpenCore [0.5.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.3)
 
 ### SSDT
-- SSDT-EC-AMD
+- SSDT-USBX-AMD [Fix USB Power](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/AMD-USB-map.md#fixing-usb-power-on-amd)
 
 ### Drivers
 - ApfsDriverLoader [2.1.4](https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.4)

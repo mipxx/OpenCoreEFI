@@ -14,6 +14,14 @@
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Gigabyte B450 Aorus Pro USB Power Fix</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-USBX-AMD.aml</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
