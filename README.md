@@ -41,6 +41,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [Multiboot](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Multiboot.md)
 - [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
 - [UEFI Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI.md)
+- [USB-Map](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USB-Map.md))
 
 ### System Components
 
@@ -49,8 +50,12 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [Crucial Ballistix Sport LT rot DIMM Kit 16GB, DDR4-3200, CL16-18-18](https://ballistixgaming.com/products/dram/sport/ballistix-sport-lt-ddr4/ballistix-sport-lt-ddr4-rc.html)
 - [PowerColor Red Dragon Radeon™ RX 5700](https://www.powercolor.com/product?id=1565954303)
 - [WD Blue SN500 NVMe SSD](https://shop.westerndigital.com/de-de/products/internal-drives/wd-blue-sn500-nvme-ssd#WDS500G1B0C)
+- [Corsair Force Series MP510 960GB, M.2](https://www.corsair.com/de/de/Kategorien/Produkte/Datenspeicher/M-2-SSDs/Force-Series-MP510/p/CSSD-F960GBMP510)
+- [Crucial MX500 500GB](http://eu.crucial.com/eur/en/ssd/storage-ssd-mx500)
+- Samsung SSD 840 EVO 250GB
 - [HP ENVY 27s](https://store.hp.com/GermanyStore/Merch/Product.aspx?id=Y6K73AA&opt=ABB&sel=MTO) 4K Monitor via DisplayPort
 - [Fenvi FV-T919](https://www.aliexpress.com/item/4000167777406.html) WiFi / Bluetooth Card PCIe
+- [Define C Tempered Glass](https://www.fractal-design.com/products/cases/define/define-c-tempered-glass/black/)
 
 ### Software Versions
 
