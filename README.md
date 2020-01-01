@@ -41,7 +41,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - [Multiboot](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/Multiboot.md)
 - [Screenshots](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System.md)
 - [UEFI Settings](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/UEFI.md)
-- [USB-Map](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USB-Map.md))
+- [USB-Map](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USB-Map.md)
 
 ### System Components
 
