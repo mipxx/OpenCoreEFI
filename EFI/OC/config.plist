@@ -321,7 +321,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>USBPorts.kext</string>
+				<string>AMD-USB-Map.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
