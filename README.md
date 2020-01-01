@@ -77,6 +77,7 @@ Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2
 - UEFI Shell
 
 ### Kexts
+- AGPMInjector [0.0](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/NullCPU-patch.md#3-creating-the-agpm-injector-kext)
 - AppleALC Layout 1 for Realtek ALC1220-VB [1.4.4](https://github.com/acidanthera/AppleALC/releases/tag/1.4.4)
 - AppleMCEReporterDisabler [1.0](https://github.com/AMD-OSX/AMD_Vanilla/blob/master/Extra/AppleMCEReporterDisabler.kext.zip)
 - Custom USB Port kext [0.0](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/AMD-USB-map.md)
