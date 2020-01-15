@@ -38,7 +38,7 @@
 				<true/>
 				<key>port-count</key>
 				<data>
-				DwAAAA==
+				DgAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -67,6 +67,15 @@
 						<key>port</key>
 						<data>
 						BAAAAA==
+						</data>
+					</dict>
+					<key>PO12</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>port</key>
+						<data>
+						DAAAAA==
 						</data>
 					</dict>
 					<key>POT5</key>
@@ -99,7 +108,7 @@
 					<key>PO14</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>
 						DgAAAA==
@@ -114,15 +123,6 @@
 						AQAAAA==
 						</data>
 					</dict>
-					<key>POT9</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>
-						CQAAAA==
-						</data>
-					</dict>
 					<key>POT2</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -130,15 +130,6 @@
 						<key>port</key>
 						<data>
 						AgAAAA==
-						</data>
-					</dict>
-					<key>PO10</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>
-						CgAAAA==
 						</data>
 					</dict>
 					<key>POT7</key>
@@ -150,15 +141,6 @@
 						BwAAAA==
 						</data>
 					</dict>
-					<key>PO15</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>
-						DwAAAA==
-						</data>
-					</dict>
 					<key>POT8</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -166,15 +148,6 @@
 						<key>port</key>
 						<data>
 						CAAAAA==
-						</data>
-					</dict>
-					<key>PO16</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>
-						EAAAAA==
 						</data>
 					</dict>
 				</dict>

@@ -15,7 +15,9 @@ two USB Controllers
 | 4               | POT2 (0x02), PTXH | POT6 (0x06), PTXH |         |
 | 5               | PRT6 (0x06), XHC0 | PRT2 (0x02), XHC0 |         |
 | 6               | PRT8 (0x08), XHC0 | PRT4 (0x04), XHC0 |         |
-| 7               | - | PO11 (0x0B), PTXH | Fenvi FV-T919 Bluetooth |
-| 8               | - | PR13 (0x0D), PTXH | |
+| 7a              | - | PO11 (0x0B), PTXH | Fenvi FV-T919 Bluetooth |
+| 7b              | - | PO12 (0x0C), PTXH | unused |
+| 8a              | - | PO13 (0x0D), PTXH | unused |
+| 8b              | - | PO14 (0x0E), PTXH | unused |
 | 9a              | POT4 (0x04), PTXH | POT8 (0x08), PTXH | Fractal Define C Front left |
 | 9b              | POT3 (0x03), PTXH | POT7 (0x07), PTXH | Fractal Define C Front right |
