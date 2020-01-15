@@ -1,8 +1,8 @@
 USB Map
 ================
 
-![back](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USB-Map/IO_Shield.png)
-![front](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USB-Map/Mainboard.png)
+![back](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USB-Map/IO_Shield.png)![front](https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/USB-Map/Mainboard.png)
+
 
 two USB Controllers
 - PTXH
