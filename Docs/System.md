@@ -10,5 +10,11 @@ Screenshots
 ## RX 5700
 <img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System/RX5700.png" width="900" height="528"/>
 
-## Hardware Encoding
-<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System/VideoProc.png" width="934" height="646"/>
+## RX 580
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System/RX580.png" width="900" height="528"/>
+
+## Hardware Encoding RX5700
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System/VideoProc_5700.png" width="934" height="646"/>
+
+## Hardware Encoding RX580
+<img src="https://github.com/mipxx/OpenCoreEFI/blob/master/Docs/System/VideoProc_580.png" width="934" height="646"/>
