@@ -3,6 +3,7 @@ January 2021:
 - updated UEFI settings
 - not all test have been repeated
 - removed kernel boot argument "agdpmod=pikera", for usage of RX5700 this should be reapplied
+- update to Big Sur
 
 OpenCore EFI
 ================
@@ -52,7 +53,7 @@ Created with the help of [Dortania's OpenCore Install Guide](https://dortania.gi
 
 - [GIGABYTE B450 Aorus Pro Rev. 1.0](https://www.gigabyte.com/Motherboard/B450-AORUS-PRO-rev-10) (UEFI Version [F60e](https://download.gigabyte.com/FileList/BIOS/mb_bios_b450-aorus-pro_f60e.zip))
 - ~~[AMD RYZEN 5 3600](https://www.amd.com/de/products/cpu/amd-ryzen-5-3600)~~ -> [AMD RYZEN 3 3300X](https://www.amd.com/de/products/cpu/amd-ryzen-3-3300x)
-- [Crucial Ballistix Sport LT rot DIMM Kit 16GB, DDR4-3200, CL16-18-18](https://ballistixgaming.com/products/dram/sport/ballistix-sport-lt-ddr4/ballistix-sport-lt-ddr4-rc.html)
+- ~~[Crucial Ballistix Sport LT rot DIMM Kit 16GB, DDR4-3200, CL16-18-18](https://ballistixgaming.com/products/dram/sport/ballistix-sport-lt-ddr4/ballistix-sport-lt-ddr4-rc.html)~~ -> [Crucial Ballistix RGB schwarz DIMM Kit 16GB, DDR4-3200, CL16-18-18-36](https://eu.crucial.com/memory/ddr4/bl2k8g32c16u4bl)
 - ~~[PowerColor Red Dragon Radeon™ RX 5700](https://www.powercolor.com/product?id=1565954303)~~ -> [ASUS Dual Radeon RX 580 OC](https://www.asus.com/Motherboards-Components/Graphics-Cards/All-series/DUAL-RX580-O8G/)
 - [WD Blue SN500 NVMe SSD](https://shop.westerndigital.com/de-de/products/internal-drives/wd-blue-sn500-nvme-ssd#WDS500G1B0C)
 - ~~[Corsair Force Series MP510 960GB, M.2](https://www.corsair.com/de/de/Kategorien/Produkte/Datenspeicher/M-2-SSDs/Force-Series-MP510/p/CSSD-F960GBMP510)~~ -> [Kingston A2000 NVMe PCIe SSD 1TB](https://www.kingston.com/germany/en/ssd/a2000-nvme-pcie-ssd)
@@ -65,7 +66,7 @@ Created with the help of [Dortania's OpenCore Install Guide](https://dortania.gi
 
 ### Software Versions
 
-- macOS Catalina 10.15.7 (19H114)
+- macOS Big Sur 11.1 (20C69)
 - OpenCore [0.6.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.5)
 
 ### SSDT
@@ -75,10 +76,12 @@ Created with the help of [Dortania's OpenCore Install Guide](https://dortania.gi
 - OpenRuntime [0.6.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.5)
 - HfsPlus [x.x.x](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi)
 
+
 ### Tools
 - UEFI OpenShell
 
 ### Kexts
+- AMDRyzenCPUPowerManagement [0.6.6](https://github.com/trulyspinach/SMCAMDProcessor/releases/tag/0.6.6)
 - ~~AGPMInjector [0.0](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/NullCPU-patch.md#3-creating-the-agpm-injector-kext)~~
 - AppleALC Layout 1 for Realtek ALC1220-VB [1.5.6](https://github.com/acidanthera/AppleALC/releases/tag/1.5.6)
 - AppleMCEReporterDisabler [1.2](https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip)
@@ -86,6 +89,7 @@ Created with the help of [Dortania's OpenCore Install Guide](https://dortania.gi
 - Lilu [1.5.0](https://github.com/acidanthera/Lilu/releases/tag/1.5.0)
 - NVMeFix [1.0.5](https://github.com/acidanthera/NVMeFix/releases/tag/1.0.5)
 - SmallTreeIntel82576 for Intel I-211AT Ethernet [1.3.0](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases/tag/1.3.0)
+- SMCAMDProcessor [0.6.4](https://github.com/trulyspinach/SMCAMDProcessor/releases/tag/0.6.4)
 - VirtualSMC [1.1.9](https://github.com/acidanthera/VirtualSMC/releases/tag/1.1.9)
 - WhateverGreen [1.4.6](https://github.com/acidanthera/WhateverGreen/releases/tag/1.4.6)
 
