@@ -83,7 +83,6 @@ Created with the help of [Dortania's OpenCore Install Guide](https://dortania.gi
 - AppleALC Layout 1 for Realtek ALC1220-VB [1.5.6](https://github.com/acidanthera/AppleALC/releases/tag/1.5.6)
 - AppleMCEReporterDisabler [1.2](https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip)
 - Custom USB Port kext [0.0](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/AMD-USB-map.md)
-- ~~Innie (set NVMe SSD to internal) [1.2.0](https://forums.macrumors.com/threads/innie-a-fix-for-pci-drives-seen-as-external.2136229/#post-26433989)~~
 - Lilu [1.5.0](https://github.com/acidanthera/Lilu/releases/tag/1.5.0)
 - NVMeFix [1.0.5](https://github.com/acidanthera/NVMeFix/releases/tag/1.0.5)
 - SmallTreeIntel82576 for Intel I-211AT Ethernet [1.3.0](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases/tag/1.3.0)
@@ -99,3 +98,4 @@ Created with the help of [Dortania's OpenCore Install Guide](https://dortania.gi
 - [AMD-OSX Discord](https://discord.gg/EfCYAJW)
 - [Wireless Buyers Guide](https://khronokernel-7.gitbook.io/wireless-buyers-guide/)
 - [How to fix iMessage (tonymacx86)](https://www.tonymacx86.com/threads/how-to-fix-imessage.110471/)
+- [Internal drives shown as external (reddit)](https://www.reddit.com/r/hackintosh/comments/f0cc4t/internal_drives_shown_as_external_opencore_amd/)
